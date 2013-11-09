@@ -1,15 +1,26 @@
 [
   {
-    "caption": "Cheatsheet: Rspec",
-    "command": "cheat_sheet", "args": { "filename": "rspec.rb" }
+    "caption": "Cheatsheet: Rspec. Basics",
+    "command": "cheat_sheet_rails", "args": { "filename": "rspec/basics.rb" }
+  },
+  {
+    "caption": "Cheatsheet: Rspec. Mocks",
+    "command": "cheat_sheet_rails", "args": { "filename": "rspec/mocks.rb" }
+  },
+  {
+    "caption": "Cheatsheet: Rspec. Stubs",
+    "command": "cheat_sheet_rails", "args": { "filename": "rspec/stubs.rb" }
+  },
+  {
+    "caption": "Cheatsheet: Rspec. Mocks and Stubs",
+    "command": "cheat_sheet_rails", "args": { "filename": "rspec/stubs_and_mocks.rb" }
   },
   {
     "caption": "Cheatsheet: Capybara",
-    "command": "cheat_sheet", "args": { "filename": "capybara.rb" }
+    "command": "cheat_sheet_rails", "args": { "filename": "capybara.rb" }
   },
   {
     "caption": "Cheatsheet: PostgreSQL for :development",
-    "command": "cheat_sheet", "args": { "filename": "psql_dev.bash" }
+    "command": "cheat_sheet_rails", "args": { "filename": "psql_dev.bash" }
   }
-
 ]

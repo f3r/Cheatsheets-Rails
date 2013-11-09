@@ -2,6 +2,7 @@ Cheatsheets Rails
 =================
 Set of files with code you can rapidly use
 
+
 Usage of plugin
 ---------------
 * Open Sublime
@@ -15,7 +16,7 @@ List of cheatsheets
 Code:
 
 * Capybara
-* Git
+* Rspec
 
 Setup:
 
@@ -24,7 +25,8 @@ Setup:
 To developers
 -------------
 Feel free to make pull requests here:
-<https://github.com/OrelSokolov/Rails-Cheat-Sheets-for-Sublime-2>
+
+<https://github.com/OrelSokolov/Cheetsheets-Rails>
 
 
 License
