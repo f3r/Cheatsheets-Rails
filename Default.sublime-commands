@@ -1,0 +1,15 @@
+[
+  {
+    "caption": "Cheatsheet: Rspec",
+    "command": "cheat_sheet", "args": { "filename": "rspec.rb" }
+  },
+  {
+    "caption": "Cheatsheet: Capybara",
+    "command": "cheat_sheet", "args": { "filename": "capybara.rb" }
+  },
+  {
+    "caption": "Cheatsheet: PostgreSQL for :development",
+    "command": "cheat_sheet", "args": { "filename": "psql_dev.bash" }
+  }
+
+]
