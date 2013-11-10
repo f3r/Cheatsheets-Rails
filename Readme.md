@@ -5,9 +5,9 @@ Set of files with code you can rapidly use
 
 Usage of plugin
 ---------------
-* Open Sublime
-* `Ctrl+Shift+P` and start typing `Cheat....`
-* PROFIT!!11
+* Open Sublime 2
+* `Ctrl+Shift+P` and start typing `Cheatheet`
+* PROFIT!!1
 
 
 List of cheatsheets
@@ -26,7 +26,7 @@ To developers
 -------------
 Feel free to make pull requests here:
 
-<https://github.com/OrelSokolov/Cheetsheets-Rails>
+<https://github.com/OrelSokolov/Cheatsheets-Rails>
 
 
 License
