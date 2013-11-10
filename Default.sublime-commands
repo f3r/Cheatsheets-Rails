@@ -16,8 +16,12 @@
     "command": "cheat_sheet_rails", "args": { "filename": "rspec/stubs_and_mocks.rb" }
   },
   {
+    "caption": "Cheatsheet: Capybara trick: show page with CSS and JS",
+    "command": "cheat_sheet_rails", "args": { "filename": "capybara/show_page.rb" }
+  },
+  {
     "caption": "Cheatsheet: Capybara",
-    "command": "cheat_sheet_rails", "args": { "filename": "capybara.rb" }
+    "command": "cheat_sheet_rails", "args": { "filename": "capybara/capybara_methods.rb" }
   },
   {
     "caption": "Cheatsheet: PostgreSQL for :development",
