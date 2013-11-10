@@ -1,5 +1,8 @@
-import sublime_plugin, os
+from sublime import packages_path
+import sublime_plugin
+import os.path as p
   
 class CheatSheetRailsCommand(sublime_plugin.WindowCommand):  
     def run(self, filename):  
-        self.window.open_file(os.path.join(os.path.dirname(__file__), "cheatsheets/"+filename))
+    	print packages_path()
+        self.window.open_file(p.join(packages_path(), "Cheatsheets Rails/cheatsheets/"+filename))
